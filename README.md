@@ -1,6 +1,6 @@
 # 新卒向け技術研修資料（HTML/CSS）
 
-[HTML/CSS研修資料](https://drive.google.com/drive/folders/1vls0mBOcAPFi9Pp3d6m6S1Hw11vaYrB5)
+[HTML/CSS研修資料](https://drive.google.com/drive/u/1/folders/1UTuTXX0DutpqH4zKLrqJTt2zfksa4WLr)
 
 ## 進め方
 instruction.pngに従いWEBページを完成させなさい。  
